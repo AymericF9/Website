@@ -1,0 +1,346 @@
+body{
+	margin:0;
+	padding:0;
+	background: url('https://image.freepik.com/photos-gratuite/mur-beton-noir_24972-1046.jpg') no-repeat center fixed; 
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.titre1{
+	text-align:center;
+	font-size:40px;
+	color:white;
+	font-weight: bold;
+}
+.titre2{
+	text-align:center;
+	font-size:40px;
+	color:white;
+	font-weight: bold;
+}
+.texte1{
+	margin-top:3%;
+	color:white;
+	font-size:20px;
+}
+.formulaire{
+	margin-left:36%;
+	margin-top:3.5%;
+	color:white;
+}
+
+.pagination{
+	margin-left:45%;
+	margin-top:5%;
+}
+.page2{
+	margin-left:-0,25%;
+}
+.page2-2{
+	margin-left:-2%;
+}
+.page3bis{
+	margin-top:10%;
+	margin-left:-2%;
+}
+.page4{
+	margin-top:10%;
+	margin-left:-2%;
+}
+.cv{
+	width:60%;
+	height:50%;
+	margin-left:20%;
+	margin-top:4%;
+}
+.email{
+	color:white;
+	margin-left:36%;
+}
+.bouton{
+	margin-left:40%;
+}
+.titreport{
+	font-weight:bold;
+	color:white;
+	text-align:center;
+}
+.compe{
+	margin-top:8%;
+	margin-left:8%;
+}
+
+.compe2{
+	margin-left:50%;
+	margin-top:-26.25%;
+}
+
+.compe3{
+	margin-top:8%;
+	margin-left:-8%;
+}
+.compe4{
+	margin-left:50%;
+	margin-top:-17.5%;
+}
+
+.lienhygiene{
+	color:white;
+}
+.info{
+	color:white;
+}
+#staticEmail{
+	color:white;
+}
+.loisir{
+	margin-top:5%;
+	margin-left:5%;
+}
+.loisir2{
+	margin-left:55%;
+	margin-top:-44.25%;
+}
+.loisir3{
+	margin-left:5%;
+	margin-top: 5%;
+}
+.loisir4{
+	margin-left:55%;
+	margin-top:-25%;
+}
+.sport1{
+	width:50%;
+	height:40%;
+}
+.sport2{
+	width:50%;
+	height:40%;
+	margin-left:50%;
+	margin-top:-112.5%;
+}
+.sport3{
+	width:50%;
+	height:25%;
+	margin-left:50%;
+	margin-top:-51%;
+}
+.livre1{
+	height:50%;
+	width:50%;
+}
+.livre2{
+	width:41.75%;
+	height:35%;
+	margin-left:50%;
+	margin-top:-76.25%;
+}
+.montre1{
+	height:40%;
+	width:40%;
+}
+.montre2{
+	height:43%;
+	width:43%;
+	margin-left: -1.25%;
+}
+.univers1{
+	width:40%;
+	height:40%;
+}
+.univers2{
+	width:58.75%;
+	height:72%;
+}
+.mention{
+	margin-bottom: 0px;
+	margin-left: 0%;
+}
+.bouton{
+	margin-left:115%;
+}
+.bouton2{
+	margin-left:42%;
+}
+
+@media screen and (max-width : 1081px){
+	
+	.pagination{
+		margin-left:40%;
+		margin-top:5%;
+	}
+	.titre1{
+		text-align:center;
+		font-size:40px;
+		color:white;
+		font-weight: bold;
+		margin-top: 3%;
+	}
+	.texte1{
+		margin-top: 8%;
+    	color: white;
+    	font-size: 30px;
+    	text-align: center;
+	}
+	.formulaire{
+		margin-left: 3%;
+		margin-top: 7.5%;
+		color: white;
+		font-size: 175%;
+		text-align: center;
+	}
+	.titre2 {
+		text-align: center;
+		font-size: 40px;
+		color: white;
+		font-weight: bold;
+		margin-top: 5%;
+	}
+	.email {
+		font-size: 175%;
+		color: white;
+		margin-left: 3%;
+		text-align: center;
+	}
+	.cv {
+		width: 130%;
+		height: 85%;
+		margin-left: -15%;
+		margin-top: 12%;
+	}
+	.bouton2 {
+		margin-left: 35%;
+	}
+	.titreport {
+		font-weight: bold;
+		color: white;
+		text-align: center;
+		margin-top: 10%;
+	}
+	.loisir {
+		margin-top: 5%;
+		margin-left: 16%;
+	}
+	.loisir2 {
+		margin-left: 16%;
+		margin-top: 7.75%;
+	}
+	.loisir3 {
+		margin-left: 16%;
+		margin-top: 9%;
+	}
+	.loisir4 {
+		margin-left: 16%;
+		margin-top: 7%;
+	}
+	.compe {
+    margin-top: 10%;
+    margin-left: 17%;
+	}
+	.compe2 {
+		margin-left: 17%;
+		margin-top: 1.75%;
+	}
+	.compe3 {
+		margin-top: 8%;
+		margin-left: 17%;
+	}
+	.compe4 {
+		margin-left: 17%;
+		margin-top: 7.5%;
+	}
+	.page3 {
+		margin-top: 15%;
+		margin-left: -2%;
+	}
+	.page3bis {
+		margin-top: 15%;
+		margin-left: -2%;
+	}
+	.page2 {
+		margin-left: 0%;
+		margin-top: 37%;
+	}
+	.page2-2{
+		margin-left: 0%;
+		margin-top: 37%;
+	}
+}	
+@media screen and (min-width:1082px) and (max-width:1400px) {
+	.compe{
+	margin-top:8%;
+	margin-left:11%;
+	}
+	.compe2{
+	margin-left:55%;
+	margin-top:-26.25%;
+	}
+	.compe3{
+		margin-top:8%;
+		margin-left:11%;
+	}
+	.compe4{
+	margin-left:55%;
+	margin-top:-17.5%;
+	}
+	.compebis{
+		margin-top:8%;
+		margin-left:11%;
+	}
+	.compe2bis{
+		margin-left:55%;
+		margin-top:-26.25%;
+	}
+	.compe3bis{
+		margin-top:8%;
+		margin-left:11%;
+	}
+	.compe4bis{
+		margin-left:55%;
+		margin-top:-17.5%;
+	}
+	.bouton{
+		margin-left:98.75%;
+	}
+	.page3{
+		margin-top:10%;
+		margin-left:-5%;
+	}
+	.email{
+		color:white;
+		margin-left:34%;
+	}
+	.formulaire{
+		margin-left:34%;
+		margin-top:3.5%;
+		color:white;
+	}
+}
+@media screen and (min-width:1401px){
+	.compe{
+	margin-top:8%;
+	margin-left:7%;
+	}
+	.compe2{
+	margin-left:59%;
+	margin-top:-20.57%;
+	}
+	.compe3{
+	margin-top:8%;
+	margin-left:7%;
+	}
+	.compe4{
+	margin-left:59%;
+	margin-top:-15.2%;
+	}
+	.compe2bis{
+	margin-left:57%;
+	margin-top:-22.5%;
+	}
+	.compe4bis{
+	margin-left:57%;
+	margin-top:-15.2%;
+	}
+
+	
+}
